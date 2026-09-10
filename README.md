@@ -42,7 +42,8 @@ Full Stack character creation and management platform.
 
 ## 📫 Contact
 
-**Sérgio Alves**  
+**EMAIL** - smoreiralves@gmail.com
+**Sérgio Alves**
 Full Stack Developer  
 Portugal
 
