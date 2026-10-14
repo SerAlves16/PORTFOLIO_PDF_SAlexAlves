@@ -30,6 +30,8 @@ Includes role-based administration, event analytics and a responsive interface, 
 
 `React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Neon`
 
+[View Project](https://agenda-municipal.vercel.app)
+
 ---
 
 ### 📋 FEZORApp
@@ -60,6 +62,8 @@ Sports club platform with public news, memberships, ticketing, an online shop, a
 This implementation uses a Node.js/Express API and PostgreSQL on Neon, with JWT authentication, Google sign-in and role-based access to club operations.
 
 `React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Neon` `JWT`
+
+[View Project](https://platclubebase.vercel.app)
 
 ---
 
