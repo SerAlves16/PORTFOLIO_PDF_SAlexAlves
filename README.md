@@ -23,6 +23,46 @@ Choose a version:
 
 ## 🚀 Featured Projects
 
+### 📅 Agenda Municipal
+Municipal events portal with public event browsing and a backoffice for managing events, categories and publication workflows.
+
+Includes role-based administration, event analytics and a responsive interface, backed by an Express API and PostgreSQL on Neon.
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Neon`
+
+---
+
+### 📋 FEZORApp
+Quotation management platform for professionals and small businesses, combining a quotation editor, client management and a reusable catalogue of services and materials.
+
+Includes PDF previews and exports, saved quotations, professional profiles, subscription-based features and an installable PWA interface for desktop and mobile.
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `MongoDB` `PWA`
+
+[View Project](https://fezorapp.vercel.app)
+
+---
+
+### 🏁 WFR RaceTech
+Race incident management application for karting events, with incident logging, race filters, configurable track points and automatic dashboard updates.
+
+Includes JWT authentication, role-based permissions, touch-friendly shortcuts and Excel exports organised by race. The application follows an MVC architecture with a React interface and an Express API.
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `PWA`
+
+[View Repository](https://github.com/SerAlves16/wfRacing)
+
+---
+
+### ⚽ CD Clube — Sports Club Portal
+Sports club platform with public news, memberships, ticketing, an online shop, a member dashboard and administrative tools.
+
+This implementation uses a Node.js/Express API and PostgreSQL on Neon, with JWT authentication, Google sign-in and role-based access to club operations.
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Neon` `JWT`
+
+---
+
 ### ⚽ ClubScout CRM
 CRM designed for football club prospecting and commercial opportunity management.
 
@@ -74,10 +114,10 @@ Includes an API Gateway, JWT authentication, independent Node.js and Python serv
 
 ---
 
-### 🐉 D&D 5e Character Builder
+### 🐉 Fichas & Lendas — D&D 5e Character Builder
 Full Stack platform for creating and managing Dungeons & Dragons 5e characters, including classes, spells, equipment, attributes, proficiencies and character progression.
 
-`React` `Next.js` `Supabase` `PostgreSQL`
+`React` `TypeScript` `Vite` `Node.js` `Express` `MongoDB`
 
 [View Project](https://dndchar5etools.vercel.app/login)
 
@@ -86,16 +126,18 @@ Full Stack platform for creating and managing Dungeons & Dragons 5e characters, 
 ### ❤️ CoupleAdventure
 AI-powered interactive RPG experience designed for couples, combining narrative choices and dynamic story generation.
 
-`React` `AI` `Full Stack`
+`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `MongoDB` `AI`
 
 [View Project](https://coupleadventure.vercel.app)
 
 ---
 
-### 🖨️ 3D Printing Cost Management
+### 🖨️ PrintPrice Manager — 3D Printing Cost Management
 Full Stack platform for calculating and managing 3D printing production costs, including materials, printing time and pricing estimates.
 
-`Full Stack` `Cost Management` `3D Printing`
+Includes material and stock management, STL model costs, a quick calculator, production dashboards and CSV exports.
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `MongoDB` `Mongoose`
 
 [View Project](https://cal3dprice.vercel.app)
 
